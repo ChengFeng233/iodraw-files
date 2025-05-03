@@ -42,6 +42,9 @@
         <mxCell id="h4Y7noLh3iHiL995xeLw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Y7noLh3iHiL995xeLw-9" target="h4Y7noLh3iHiL995xeLw-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="h4Y7noLh3iHiL995xeLw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Y7noLh3iHiL995xeLw-9" target="h4Y7noLh3iHiL995xeLw-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h4Y7noLh3iHiL995xeLw-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;是否已装满3枚飞镖&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="199" y="460" width="201" height="80" as="geometry" />
         </mxCell>
