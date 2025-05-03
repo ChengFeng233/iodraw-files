@@ -21,7 +21,7 @@
         <mxCell id="h4Y7noLh3iHiL995xeLw-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;移动到弹药库&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="h4Y7noLh3iHiL995xeLw-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="h4Y7noLh3iHiL995xeLw-5" value="识别并抓取最近的己方飞镖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
