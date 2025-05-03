@@ -81,8 +81,8 @@
         <mxCell id="h4Y7noLh3iHiL995xeLw-23" value="确认是否击破目标成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="525" y="710" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="h4Y7noLh3iHiL995xeLw-27" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="830" width="80" height="80" as="geometry" />
+        <mxCell id="h4Y7noLh3iHiL995xeLw-27" value="飞镖是否还有剩余" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="810" width="200" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
