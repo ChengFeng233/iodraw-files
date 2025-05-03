@@ -48,6 +48,11 @@
         <mxCell id="h4Y7noLh3iHiL995xeLw-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;是否已装满3枚飞镖&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="199" y="460" width="201" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="h4Y7noLh3iHiL995xeLw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="h4Y7noLh3iHiL995xeLw-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="h4Y7noLh3iHiL995xeLw-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;弹药库中是否还有飞镖&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="199.5" y="560" width="201" height="80" as="geometry" />
         </mxCell>
@@ -109,7 +114,7 @@
           <mxGeometry x="630" y="890" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h4Y7noLh3iHiL995xeLw-38" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="818" width="40" height="30" as="geometry" />
+          <mxGeometry x="500" y="690" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
