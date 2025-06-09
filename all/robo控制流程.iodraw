@@ -10,11 +10,23 @@
         <mxCell id="kBLrBZcSm41HUXAWIsEK-1" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;开始&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="kBLrBZcSm41HUXAWIsEK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBLrBZcSm41HUXAWIsEK-2" target="kBLrBZcSm41HUXAWIsEK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kBLrBZcSm41HUXAWIsEK-2" value="初始化LED、NVIC、LCD，显示当前延迟时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287" y="240" width="254" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kBLrBZcSm41HUXAWIsEK-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kBLrBZcSm41HUXAWIsEK-3" target="kBLrBZcSm41HUXAWIsEK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kBLrBZcSm41HUXAWIsEK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBLrBZcSm41HUXAWIsEK-3" target="kBLrBZcSm41HUXAWIsEK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kBLrBZcSm41HUXAWIsEK-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;key1是否按下&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="370" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kBLrBZcSm41HUXAWIsEK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="kBLrBZcSm41HUXAWIsEK-4" target="kBLrBZcSm41HUXAWIsEK-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kBLrBZcSm41HUXAWIsEK-4" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;key2是否按下&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="490" width="266" height="80" as="geometry" />
