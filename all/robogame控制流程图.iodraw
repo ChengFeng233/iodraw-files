@@ -1,0 +1,73 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36 Edg/137.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1173" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="M9JVXfShdcbokNWIFLYp-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="40" width="550" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-4" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;路径规划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-5" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;动作规划&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="510" y="65" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;应用层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="65" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="200" width="550" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-8" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;底盘速度解算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-9" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;机械臂控制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-10" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;摩擦轮控制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="225" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-11" value="&lt;b&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;模块层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="140" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="360" width="550" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;执行器层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="125" y="390" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-14" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;电机PID&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;图案识别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-16" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;测距数据解算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;装载数据解算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="310" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-19" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;电机控制解算&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="480" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="600" width="550" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-21" value="&lt;b&gt;&lt;font style=&quot;font-size: 33px;&quot;&gt;外设层&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="640" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;输出PWM波&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-23" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;外部中断&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M9JVXfShdcbokNWIFLYp-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;通信协议执行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="530" y="625" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
