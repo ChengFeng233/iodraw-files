@@ -13,8 +13,8 @@
         <mxCell id="kBLrBZcSm41HUXAWIsEK-3" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 21px;&quot;&gt;key1是否按下&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="370" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="kBLrBZcSm41HUXAWIsEK-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
+        <mxCell id="kBLrBZcSm41HUXAWIsEK-4" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;key2是否按下&lt;/b&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="490" width="266" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
