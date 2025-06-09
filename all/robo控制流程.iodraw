@@ -10,7 +10,7 @@
         <mxCell id="kBLrBZcSm41HUXAWIsEK-2" value="初始化LED、NVIC、LCD，显示当前延迟时间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="287" y="240" width="254" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kBLrBZcSm41HUXAWIsEK-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kBLrBZcSm41HUXAWIsEK-3" value="key1是否按下" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="370" width="240" height="80" as="geometry" />
         </mxCell>
       </root>
